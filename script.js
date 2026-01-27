@@ -1,4 +1,3 @@
-import './style.css';
 
 
 const navLinks = document.querySelectorAll('header nav a');
